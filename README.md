@@ -7,6 +7,7 @@ The purpose of this project is to conduct a data analysis of the World Happiness
 # About Dataset
 Data source: https://worldhappiness.report/
 
+
 The dataset includes information from approximately 150 countries for the years 2015-2023. The variables in the data set include:
   - The happiness score is a measure of how satisfied people are with their lives on a scale of 0 to 10. The higher the score, the happier the country.
   - The GDP per capita is a measure of the average income of a country. The higher the GDP per capita, the wealthier the country.
