@@ -26,3 +26,4 @@ The dataset includes information from approximately 150 countries for the years 
 
 # Techniques: 
 Using Python Pandas to clean data and analyze happiness scores and other factors between countries over the world for the years 2015-2023 then using Matplotlib and Seaborn to visualize data
+Link notebook: https://colab.research.google.com/drive/1WBEY6LqQl18BmiqRnSIkU1lrLW8ey-je#scrollTo=O7-VxPEnj23K
