@@ -20,7 +20,7 @@ The dataset includes information from approximately 150 countries for the years 
 # Questions
 - How happiness score changed over time
 - The factors that are most important for happiness and the relationships between these factors.
-- Combine Covid-19 dataset: The relationship between Happiness score and the Covid-19 situation of countries
+- Combine the Covid-19 dataset to identify the relationship between the Happiness score and the Covid-19 situation of countries
     - Covid-19 data source: https://covid19.who.int/data
     - World population data source: https://population.un.org/wpp/Download/Standard/CSV/
 
