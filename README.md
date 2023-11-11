@@ -28,4 +28,5 @@ The dataset includes information from approximately 150 countries for the years 
 - Using Pandas to clean data and analyze the trend of happiness scores, the relationships between the factors that are most important for happiness, the gap between the top and bottom ranked countries for the years 2015-2023, and the relationship between Happiness score and the Covid-19 situation of countries
 - Using Matplotlib and Seaborn to visualize data
   
-Link notebook: https://colab.research.google.com/drive/1WBEY6LqQl18BmiqRnSIkU1lrLW8ey-je#scrollTo=O7-VxPEnj23K
+Link notebook: https://tinyurl.com/github-worldhappiness2015-2023
+Link presentation: https://tinyurl.com/worldhappiness2015-2023
