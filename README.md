@@ -17,19 +17,25 @@ The dataset includes information from approximately 150 countries for the years 
   - The generosity is a measure of how much people give to charity and help others. The higher the generosity, the happier the country.
   - The perceptions of corruption is a measure of how corrupt people believe the government is. The lower the perceptions of corruption, the happier the country.
 
-# Questions
-- How happiness score changed over time
-- The factors that are most important for happiness and the relationships between these factors.
-- Combine the Covid-19 dataset to identify the relationship between the Happiness score and the Covid-19 situation of countries
+# Project Objective:
+The purpose of this project is to explore:
+- How happiness scores evolved over this time span
+- The most influential factors contributing to happiness, and the intricate relationships between these factors. Choose the top-ranked and bottom-ranked countries as two case studies and visualize the engagement data
+- Additionally, integrate the Covid-19 dataset to examine the relationship between the Happiness score and the Covid-19 situation across countries
     - Covid-19 data source: https://covid19.who.int/data
     - World population data source: https://population.un.org/wpp/Download/Standard/CSV/
 
 # Techniques: 
-- Using Pandas to clean data and analyze the trend of happiness scores, the relationships between the factors that are most important for happiness, the gap between the top and bottom ranked countries for the years 2015-2023, and the relationship between Happiness score and the Covid-19 situation of countries
-- Using Matplotlib and Seaborn to visualize data
+- Using Pandas to clean and analyze data from The World Happiness Report, which comprised 9 datasets with 1367 entries, encompassing information from approximately 150 countries for the years 2015-2023
+- Using Matplotlib and Seaborn to visualize the data
 
-For more details, please refer to the following links:
-  
-Link notebook: https://tinyurl.com/github-worldhappiness2015-2023
+# Insights:
+- The initial analysis indicated relatively stable happiness scores over time. Developed countries consistently ranked highest, while poorer and underdeveloped countries tended to rank lower on the happiness scale.
+- Key factors influencing happiness included GDP per capita, life expectancy, and social support.
+- Case studies of top and bottom-ranked countries, visually presented, highlighted significant disparities and offered valuable insights into varying happiness levels across nations.
+- Countries with high happiness scores may have higher COVID-19 infection rates than countries with low happiness scores.
 
-Link presentation: https://tinyurl.com/worldhappiness2015-2023
+![newplot](https://github.com/JoycelynPham/WORLD-HAPPINESS-2015-2023/assets/148677481/98d5c58a-9f07-4028-94b0-c385c5c0eef0)
+
+
+For the presentation, please refer to the following links: https://tinyurl.com/worldhappiness2015-2023
